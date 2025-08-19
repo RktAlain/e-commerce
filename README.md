@@ -1,1 +1,1 @@
-# E-commerce : Next + Django
+# E-commerce : Next + Djangos
